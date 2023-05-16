@@ -60,14 +60,34 @@
 } */
 
 .App-header {
+  position: relative;
   text-align: center;
   background-color: #282c34;
+  /* background-color: transparent; */
   padding: 40px;
-  /* display: flex; */
-  /* font-size: calc(10px + 2vmin); */
-  /* align-items: center; */
-  /* justify-content: center; */
   color: #ffffff;
+}
+
+.content-container {
+  background-color: #282c34;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.flower-emoji {
+  font-size: 50px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  animation: sway 2s infinite linear;
+}
+
+@keyframes sway {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(15deg); }
+  50% { transform: rotate(-10deg); }
+  75% { transform: rotate(5deg); }
+  100% { transform: rotate(0deg); }
 }
 
 .App-link {

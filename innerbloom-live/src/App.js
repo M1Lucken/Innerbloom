@@ -7,6 +7,12 @@ import backgroundMobile from './bg_gradient_mobile.jpg';
 function App() {
   const isMobile = window.innerWidth <= 768; // Or choose another breakpoint
 
+  useEffect(() => {
+    if (isMobile) {
+      window.scrollTo(0, window.innerHeight / 2);
+    }
+  }, [isMobile]);
+
   return (
     <div className={`App ${isMobile ? 'App-mobile' : 'App-desktop'}`}>
       <header className="App-header">

@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} alt="Logo" />
         <h1>
-        Innerbloom X ImmerXion
+        INNERBLOOM X IMMERXION
         </h1>
         <h2>
         <a href="https://innerbloom.ticketleap.com/launch-party/" className="tickets-link">
@@ -17,7 +17,7 @@ function App() {
         </a>
         </h2>
         <h3>6/23/23</h3>
-        <p>Central Coast, CA</p>
+        <p>CENTRAL COAST, CA</p>
       </header>
     </div>
   );

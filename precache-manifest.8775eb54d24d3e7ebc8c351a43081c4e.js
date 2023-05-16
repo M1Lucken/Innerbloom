@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a6d54529c37a6fa50bbc",
-    "url": "/static/css/main.2fb07f88.chunk.css"
+    "revision": "68d510cf7edde704fa27",
+    "url": "/static/css/main.3429e97f.chunk.css"
   },
   {
-    "revision": "a6d54529c37a6fa50bbc",
-    "url": "/static/js/main.d57a0c3e.chunk.js"
+    "revision": "68d510cf7edde704fa27",
+    "url": "/static/js/main.317447bb.chunk.js"
   },
   {
     "revision": "b11fdbbdaa4e7cf1295b",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/js/3.5b0ae9b5.chunk.js"
   },
   {
-    "revision": "61e2d62f4d7e2770f91a898f93182197",
-    "url": "/static/media/logo_spelled.61e2d62f.png"
+    "revision": "c167c1672e863bfd2d2ee917b11b7aaa",
+    "url": "/static/media/logo_spelled.c167c167.png"
   },
   {
     "revision": "9038107b5e1c1c752561fe6e35396814",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg_gradient_mobile.97124f17.jpg"
   },
   {
-    "revision": "32a80aef64cd844094194340b715dddf",
+    "revision": "6effc9eac271faee2401131c4fc7c9d8",
     "url": "/index.html"
   }
 ];

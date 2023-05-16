@@ -25,6 +25,21 @@
   }
 }
 
+.tickets-link {
+  display: inline-block;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  background-color: #598fbb;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.tickets-link:hover {
+  background-color: #bcd1d4;
+}
+
 /* .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -38,11 +53,15 @@
 
 .App-header {
   text-align: center;
-  background-color: #282c34;
+  background-color: #797979;
   padding: 40px;
-  color: white;
+  color: #ffffff;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
 }

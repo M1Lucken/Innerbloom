@@ -8,8 +8,16 @@ function App() {
     <div className="App" style={{ backgroundImage: `url(${background})` }}>
       <header className="App-header">
         <img src={logo} alt="Logo" />
-        <h1>Welcome to Innerbloom Live!</h1>
-        <p>The ultimate music festival experience is coming soon.</p>
+        <h1>
+        Innerbloom X ImmerXion
+        </h1>
+        <h2>
+        <a href="https://innerbloom.ticketleap.com/launch-party/" className="tickets-link">
+        Tickets
+        </a>
+        </h2>
+        <h3>6/23/23</h3>
+        <p>Central Coast, CA</p>
       </header>
     </div>
   );

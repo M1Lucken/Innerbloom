@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/static/media/logo_spelled.c167c167.png"
   },
   {
-    "revision": "97124f17448af4f975f1dd8c5ca6160e",
-    "url": "/static/media/bg_gradient_mobile.97124f17.jpg"
-  },
-  {
     "revision": "9038107b5e1c1c752561fe6e35396814",
     "url": "/static/media/bg_gradient.9038107b.jpg"
+  },
+  {
+    "revision": "97124f17448af4f975f1dd8c5ca6160e",
+    "url": "/static/media/bg_gradient_mobile.97124f17.jpg"
   },
   {
     "revision": "cc802431dbad87748f0a2ce3f2d0a628",
